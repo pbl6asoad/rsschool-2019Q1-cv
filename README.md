@@ -1,1 +1,1 @@
-https://github.com/pbl6asoad/rsschool-2019Q1-cv/blob/gh-pages/cv.md
+https://pbl6asoad.github.io/rsschool-2019Q1-cv/cv
