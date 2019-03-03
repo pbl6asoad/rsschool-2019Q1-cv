@@ -28,7 +28,7 @@ That's skills that i know or studying:
 
  
 
-## :GB: English-level: 
+## :gb: English-level: 
 
 My English-level is about B1. I haven't passed any courses. All my practice is speaking with foreigners sometimes, but they don't know English very well aswell. I've got 9 for the English exam and received 60/100 for entrance exams.
 
