@@ -1,0 +1,40 @@
+body{
+    padding: 0 20%;
+    width: 1024px;
+    font-size: 20px; 
+}
+table {
+    border:none;
+    border-collapse: collapse;
+}
+
+table td, th {
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+}
+
+table td:first-child {
+    border-left: none;
+}
+
+table td:last-child {
+    border-right: none;
+}
+table th:first-child {
+    border-left: none;
+}
+
+table th:last-child {
+    border-right: none;
+}
+table th{
+    border-bottom: 1px solid gray; 
+}
+hr{
+    color: gray;
+}
+img{
+    position: absolute;
+    height: 200px;
+    left: 900px;
+}
